@@ -1,6 +1,9 @@
 # netflixclone
 
 A new Flutter project.
+Screenshot  of Netflix clone 
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshot/IMG-20240814-WA0001.jpg)
+
 
 ## Getting Started
 
