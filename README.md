@@ -1,8 +1,17 @@
 # netflixclone
 
 A new Flutter project.
-Screenshot  of Netflix clone 
-![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshot/IMG-20240814-WA0001.jpg)
+ 
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshots/IMG-20241104-WA0002.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshots/IMG-20241104-WA0004.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshots/IMG-20241104-WA0005.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshots/IMG-20241104-WA0006.jp
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshots/IMG-20241104-WA0006.jpg)
+![myimage-alt-tag](https://github.com/Sanandan045/netflix-clone/blob/main/lib/screenshots/WhatsApp%20Image%202024-11-04%20at%2009.41.16_0162a720.jpg)
+
+
+
+
 
 
 ## Getting Started
